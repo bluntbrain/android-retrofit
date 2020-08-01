@@ -4,14 +4,13 @@ Retrofit implementation for GET, POST, PUT and PATCH requests
 REST API used 
 https://jsonplaceholder.typicode.com/
 
-All HTTP methods are supported.
-
-GET	/posts
-GET	/posts/1
-GET	/posts/1/comments
-GET	/comments?postId=1
-GET	/posts?userId=1
-POST	/posts
-PUT	/posts/1
-PATCH	/posts/1
-DELETE	/posts/1
+Routes<br>
+GET	/posts <br>
+GET	/posts/1 <br>
+GET	/posts/1/comments<br>
+GET	/comments?postId=1 <br>
+GET	/posts?userId=1 <br>
+POST	/posts<br>
+PUT	/posts/1 <br>
+PATCH	/posts/1<br>
+DELETE	/posts/1<br>
